@@ -1,6 +1,6 @@
 # Terraform_VCD
 # Date: 9-11-2023
-
+# Version vcd: 10.4
 # Description
 -------------------------------------
 Using Terraform to automate the process of creating an External Network, vCloud Director Organization, Organization VDC, and even deploying a vApp
