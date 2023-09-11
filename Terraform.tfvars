@@ -25,7 +25,7 @@ org_full_name = "My Terraform Organization"
 org_description = "Terraform1 Create Org"
 
 # vCloud Director Organization VDC Variables
-vdc_alloc_model = "Flex" # AllocationVApp
+vdc_alloc_model = "Flex" # AllocationVApp #AllocationPool
 vdc_net_pool = "VMLAB PVDC"                          
 vdc_pvdc_name = "provider-test"                   **Hint:** Review this code in the Infrastructure.
 vdc_name = "Terraform1-VDC-A"
