@@ -1,6 +1,6 @@
 # vCloud Director Connection Variables
 vcd_user = "administrator"                  **Hint:** Review this code in the Infrastructure folder.
-vcd_pass = "VMware@$!12"                  **Hint:** Review this code in the Infrastructure folder.
+vcd_pass = "VMware@$!12"                    **Hint:** Review this code in the Infrastructure folder.
 vcd_url = "https://vcd.adelzoz.local/api"   **Hint:** Review this code in the Infrastructure folder.
 vcd_max_retry_timeout = "60"
 vcd_allow_unverified_ssl = "true"
