@@ -13,8 +13,14 @@ terraform.tfvars
 
 variables.tf
 
-1- Main.tf contains the provider and resources used to build the environment
+1- Main.tf - Definition of Infrastructure:
 
-2- terraform.tfvars contain the variable values. Change these to suit your environment
+Description: "Main.tf" serves as the core configuration file, housing the Terraform provider setup and the resource definitions essential for constructing the cloud environment on VCloud Director. It outlines the fundamental infrastructure components and their relationships.
 
-3- variables.tf contain variable options. Currently only contains descriptions of the variables
+2- Terraform.tfvars - Customizable Variables:
+
+Description: "Terraform.tfvars" functions as a customization hub. It stores variable values that can be adjusted to align with your specific environment requirements. By modifying these variables, you can tailor the Terraform deployment to your unique needs.
+
+3- Variables.tf - Parameter Definitions:
+
+Description: "Variables.tf" plays a role in parameterizing your Terraform project. While it currently includes variable descriptions, it serves as the place where you define the available options for configuration. It acts as a reference for understanding the purpose and usage of each variable in your Terraform scripts.
