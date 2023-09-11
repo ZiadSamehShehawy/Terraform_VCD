@@ -1,9 +1,9 @@
 # Terraform_VCD
-# Date: 7-11-2023
+# Date: 9-11-2023
 
 # Description
 -------------------------------------
-Using Terraform I Automate the process of creating an External Network, vCloud Director Organization, Organization VDC and vApp
+Using Terraform to automate the process of creating an External Network, vCloud Director Organization, Organization VDC, and even deploying a vApp
 
 I leverage Terraform to automate the orchestration of various components within the VCloud Director ecosystem. This includes the seamless creation of an External Network, a VCloud Director Organization, an Organization Virtual Data Center (VDC), and the deployment of vApps. By harnessing the power of Terraform, I streamline and standardize the setup and management of these essential elements, ensuring efficiency and consistency in cloud infrastructure provisioning.
 
