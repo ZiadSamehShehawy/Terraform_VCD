@@ -5,6 +5,8 @@
 -------------------------------------
 Using Terraform I Automate the process of creating an External Network, vCloud Director Organization, Organization VDC and vApp
 
+I leverage Terraform to automate the orchestration of various components within the VCloud Director ecosystem. This includes the seamless creation of an External Network, a VCloud Director Organization, an Organization Virtual Data Center (VDC), and the deployment of vApps. By harnessing the power of Terraform, I streamline and standardize the setup and management of these essential elements, ensuring efficiency and consistency in cloud infrastructure provisioning.
+
 # File Listing & Description
 -------------------------------------
 main.tf
