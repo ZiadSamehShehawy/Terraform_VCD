@@ -11,5 +11,7 @@ main.tf
 terraform.tfvars
 variables.tf
 1- Main.tf contains the provider and resources used to build the environment
+
 2- terraform.tfvars contain the variable values. Change these to suit your environment
+
 3- variables.tf contain variable options. Currently only contains descriptions of the variables
