@@ -4,7 +4,9 @@
  Version vcd: 10.4
  
  URL: https://registry.terraform.io/providers/vmware/vcd/latest/docs
- ![image](https://github.com/ZiadSamehShehawy/Terraform_VCD/assets/132923981/73954fd4-29f4-4e3a-936b-e676049cf017)
+
+![image](https://github.com/ZiadSamehShehawy/Terraform_VCD/assets/132923981/19ebdf89-214e-4f87-8941-1dc79e0a7cac)
+
 
 # Description
 -------------------------------------
