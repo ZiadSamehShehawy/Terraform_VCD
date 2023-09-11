@@ -17,11 +17,11 @@ provider "vcd" {
 }
 
 data "vcd_vcenter" "vc" {
-  name = "elzoz-vcenter.adelzoz.local"
+  name = "elzoz-vcenter.adelzoz.local"     **Hint:** Review this code in the Infrastructure folder.
 }
 
 data "vcd_portgroup" "sw" {
-  name = "management-PG"
+  name = "management-PG"                   **Hint:** Review this code in the Infrastructure folder.
   type = "DV_PORTGROUP"
 }
 
