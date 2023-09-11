@@ -8,8 +8,11 @@ Using Terraform I Automate the process of creating an External Network, vCloud D
 # File Listing & Description
 -------------------------------------
 main.tf
+
 terraform.tfvars
+
 variables.tf
+
 1- Main.tf contains the provider and resources used to build the environment
 
 2- terraform.tfvars contain the variable values. Change these to suit your environment
