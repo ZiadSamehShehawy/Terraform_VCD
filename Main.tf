@@ -29,7 +29,7 @@ resource "vcd_external_network_v2" "extnet" {
   name        = var.extnet_name
   description = var.extnet_description
 
-    vsphere_network {
+    vsphere_network {                     **Hint:** I connected to vSphere_network, and you can also connect to NSX-T and NSX-V.
     vcenter_id   = data.vcd_vcenter.vc.id
     portgroup_id = data.vcd_portgroup.sw.id
   }
