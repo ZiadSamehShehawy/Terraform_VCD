@@ -22,7 +22,7 @@ data "vcd_vcenter" "vc" {
 
 data "vcd_portgroup" "sw" {
   name = "management-PG"                   **Hint:** Review this code in the Infrastructure.
-  type = "DV_PORTGROUP"
+  type = "DV_PORTGROUP"                    **Hint:** Review this code in the Infrastructure.
 }
 
 resource "vcd_external_network_v2" "extnet" {
